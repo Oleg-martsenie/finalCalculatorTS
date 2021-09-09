@@ -32,4 +32,4 @@ Resolvendo o erro do INNERHTML
 
 <h1>The resul gonna appear here</h1>
 
-<img src="calculatorts.gif">
+<img src="public/img/calculatorts.gif">
